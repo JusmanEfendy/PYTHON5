@@ -31,5 +31,18 @@
     ![Annotation 2021-11-10 041238](https://user-images.githubusercontent.com/92988781/141111520-adc00cc9-5358-42f2-b5d5-abc8c7857a16.png)
     
     
+4. KEYWOARD ARGUMENT
+
+    - contoh keywoard 
+
+    ![Annotation 2021-11-10 043820](https://user-images.githubusercontent.com/92988781/141114526-0a8e51b0-623f-48d1-8a4c-4bb08e33e50e.png)
+    
+    
+5. RETURN VALUE.
+
+NOTE : MOHON MAAF PAK, SAYA LAGI NDA ENAK BADAN, BESOK SAYA LANJUT INSYAALLAH. 😣
+
+    
+    
 
 
