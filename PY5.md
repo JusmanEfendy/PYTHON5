@@ -40,7 +40,29 @@
     
 5. RETURN VALUE.
 
-NOTE : MOHON MAAF PAK, SAYA LAGI NDA ENAK BADAN, BESOK SAYA LANJUT INSYAALLAH. 😣
+    atau return statement adalah nilai yang dikembalikan dari operasi sebuah fungsi.
+    
+    - contoh nya seperti ini
+
+    ![Annotation 2021-11-10 190353](https://user-images.githubusercontent.com/92988781/141230191-498b401b-4ec0-454c-8995-658e4409c97b.png)
+    
+    -
+   
+   
+6. EXCEPTION
+
+    untuk menemukan error jika tipe data yang dimasukkan salah. misalnya hanya bisa memasukkan integer namun user memasukkan string. maka akan terjadi error
+    
+    - contohnya seperti ini
+
+    ![Annotation 2021-11-10 192014](https://user-images.githubusercontent.com/92988781/141231615-e6da450d-0765-41aa-a526-c360ddb8a7a9.png)
+    
+    -
+    
+ - SELESAI
+ - MAAF JIKA ADA KESALAHAN
+
+
 
     
     
